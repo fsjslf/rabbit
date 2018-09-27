@@ -10,7 +10,7 @@ public class receiver {
 
     @RabbitHandler
     public void processC(String str) {
-        System.out.println("Receives:"+str);
+        System.out.println("Receive:"+str);
     }
 }
 
