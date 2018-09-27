@@ -13,3 +13,4 @@ public class receiver {
         System.out.println("Receives:"+str);
     }
 }
+
